@@ -3,9 +3,7 @@ html {
 }
 
 body {
-  font-family: 'Tajawal', sans-serif;
-    direction: rtl;
-    text-align: right;
+  font-family: 'El Messiri', sans-serif;
   margin: 0;
   background: linear-gradient(45deg, #ff6f91, #ffb6b9, #fae3d9, #bbded6, #61c0bf); /* تدرج بألوان وردية */
 }
