@@ -3,15 +3,11 @@ html {
 }
 
 body {
-  font-family: 'Cairo', sans-serif;
-  margin: 0;
-   direction: rtl;
-    text-align: right;
-  background: linear-gradient(45deg, #ff6f91, #ffb6b9, #fae3d9, #bbded6, #61c0bf); /* تدرج بألوان وردية */
-}
-p {
+  font-family: 'Tajawal', sans-serif;
     direction: rtl;
-    unicode-bidi: embed;
+    text-align: right;
+  margin: 0;
+  background: linear-gradient(45deg, #ff6f91, #ffb6b9, #fae3d9, #bbded6, #61c0bf); /* تدرج بألوان وردية */
 }
 
 .song {
