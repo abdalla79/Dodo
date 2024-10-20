@@ -3,9 +3,15 @@ html {
 }
 
 body {
-  font-family: 'El Messiri', sans-serif;
+  font-family: 'Cairo', sans-serif;
   margin: 0;
+   direction: rtl;
+    text-align: right;
   background: linear-gradient(45deg, #ff6f91, #ffb6b9, #fae3d9, #bbded6, #61c0bf); /* تدرج بألوان وردية */
+}
+p {
+    direction: rtl;
+    unicode-bidi: embed;
 }
 
 .song {
